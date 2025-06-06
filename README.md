@@ -9,7 +9,7 @@
 <h1 align="center">Hi there 👋, I'm Hossein</h1>
 <h2 align="center">A passionate Developer</h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseinirtr&label=Profile%20views&color=0e75b6&style=flat" alt="hosseinirtr" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hosseini-rtr&label=Profile%20views&color=0e75b6&style=flat" alt="hosseini-rtr" /> </p>
 
 - 🌱 I’m currently learning **Computer Science , Backend , AI Concept**.
 - 🤝 I’m working on [HoberChat](https://github.com/hosseinirtr/hober-chat-fullstack)
@@ -81,7 +81,7 @@ Front End:
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img class="fff" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img class="fff" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseinirtr&show_icons=true&locale=en&layout=compact" alt="hosseinirtr" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseinirtr&show_icons=true&locale=en" alt="hosseinirtr" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hosseini-rtr&show_icons=true&locale=en&layout=compact" alt="hosseini-rtr" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hosseini-rtr&show_icons=true&locale=en" alt="hosseini-rtr" /></p>
 </body>
 </html>
