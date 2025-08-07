@@ -11,10 +11,10 @@
 ### 🧾 About Me
 
 - 🌱 I’m currently learning: **Computer Science, Backend Systems, and AI**
-- 🧠 Ask me about: **Django, Backend Dev, and AI researches **
+- 🧠 Ask me about: **Django**, **Backend Dev**, and **AI researches**
 - 📌 Building: [HoberChat](https://github.com/hosseini-rtr/hober-chat-fullstack)
 - 🖥️ Portfolio: [hosseinhosseini.net](https://hosseini-rtr.ir/)
-- 📩 Reach me at: `h.hosseini.me@gmail.com`
+- 📩 Reach me at: `[mailto:h.hosseini.me@gmail.com](h.hosseini.me@gmail.com)`
 
 ---
 
