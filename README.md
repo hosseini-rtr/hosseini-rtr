@@ -1,8 +1,4 @@
 <!-- HEADER SECTION -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hosseini-rtr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 <h1 align="center">🧠 Hossein | Developer Mode: <span style="color:#00ffff">ACTIVE</span> ⚙️</h1>
 <h3 align="center">🚀 Backend | 🧠 AI | 💡 Innovation</h3>
 
@@ -41,6 +37,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hosseini-rtr&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://github-readme-stats.vercel.app/api?username=hosseini-rtr&show_icons=true&theme=tokyonight" height="165">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseini-rtr&layout=compact&theme=tokyonight">
 </p>
